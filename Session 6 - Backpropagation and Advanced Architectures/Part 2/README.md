@@ -49,6 +49,7 @@ Estimated Total Size (MB): 0.53
 
 
 
+
 * 99.4% validation accuracy
 * Less than 20k Parameters
 * Less than 20 Epochs
